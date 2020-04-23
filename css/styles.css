@@ -1,0 +1,27 @@
+th {
+  text-align:  center;
+  font-size: 90px;
+  line-height: 100%;
+  background-color: rgba(150, 150, 150, 0.5);
+  width: 150px; 
+  padding: 0px;
+  margin: 0px;
+}
+
+table {
+  padding: 0px;
+  margin: 0px;
+  width: 500px;
+  height: 100%;
+  table-layout: fixed;
+}
+
+.container {
+  padding: 50px;
+  width: 500px;
+  height: 500px;
+}
+
+.marked {
+  background-color: gold;
+}
